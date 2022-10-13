@@ -1,0 +1,38 @@
+.header{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background-color: #333;
+    font-size: 12px;
+}
+
+.wrap{
+    width: 1226px;
+    margin: 0 auto;
+    
+}
+
+.wrap ul{
+    list-style: none;
+}
+
+.header-left{
+    float:left;
+}
+
+.header-right{
+    float: right;
+}
+
+.header li{
+    float: left;
+}
+
+.header a{
+    color: #b0b0b0;
+}
+
+.header span{
+    color: #424242;
+    margin: 0 3.6px;
+}
